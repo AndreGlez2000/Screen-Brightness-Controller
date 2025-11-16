@@ -16,11 +16,6 @@ Managing brightness on multiple monitors can be tedious - constantly switching b
 - ⚡ **Instant Feedback** - Live brightness percentage display
 - 🎨 **Modern PyQt5 Interface** - Responsive and visually appealing design
 
-## 📸 Screenshot
-
-![Application Screenshot](./screenshots/screen1.png)
-![Demo GIF](./screenshots/gifs/git1.gif)
-
 ## 🚀 Installation
 
 ### Option 1: Download Pre-built Executable (Recommended)
@@ -110,14 +105,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - The application requires Windows 10/11 for proper brightness control functionality
 - Some monitors may not support software-based brightness control
-
-## 🔮 Future Enhancements
-
-- [ ] Add keyboard shortcuts
-- [ ] Save brightness presets
-- [ ] System tray integration
-- [ ] Schedule brightness changes based on time of day
-- [ ] Support for custom color themes
 
 ## 👨‍💻 Author
 
