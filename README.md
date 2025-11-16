@@ -2,7 +2,7 @@
 
 A retro-styled desktop application for controlling brightness across multiple monitors with ease.
 
-![Demo](./screenshots/gifs/gif1.gif)
+![Demo](./screenshots/gifs/git1.gif)
 
 ## 🎯 Motivation
 
@@ -19,6 +19,7 @@ Managing brightness on multiple monitors can be tedious - constantly switching b
 ## 📸 Screenshot
 
 ![Application Screenshot](./screenshots/screen1.png)
+![Demo GIF](./screenshots/gifs/git1.gif)
 
 ## 🚀 Installation
 
