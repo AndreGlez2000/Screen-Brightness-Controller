@@ -2,7 +2,7 @@
 
 A retro-styled desktop application for controlling brightness across multiple monitors with ease.
 
-![Demo](./screenshots/gifs/git1.gif)
+![Demo](./screenshots/retro.gif)
 
 ## 🎯 Motivation
 
